@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('#1.Checkout'){
       steps{
-        git url:'https://github.com/itsroshravi/Docker-B2',branch:'main'
+        git url:'https://github.com/BLACKSQUAD491/DockerB2',branch:'main'
       }
     }
 
